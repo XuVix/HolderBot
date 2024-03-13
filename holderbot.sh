@@ -82,7 +82,7 @@ fi
 mkdir holderbot
 cd holderbot
 
-git clone -b main https://github.com/Elecx-ir/holderbot.git .
+git clone -b main https://github.com/XuVix/HolderBot.git .
 
 sudo apt install -y python3.10-venv
 python3 -m venv hold
