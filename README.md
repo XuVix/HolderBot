@@ -14,7 +14,7 @@
 ```
 
 ```
-cd && cd .. && rm -f holderbot.sh* || true && sudo apt install && sudo apt-get install libjpeg-dev && wget https://raw.githubusercontent.com/Elecx-ir/holderbot/main/holderbot.sh && chmod +x holderbot.sh && ./holderbot.sh
+cd && cd .. && rm -f holderbot.sh* || true && sudo apt install && sudo apt-get install libjpeg-dev && wget https://raw.githubusercontent.com/XuVix/HolderBot/main/holderbot.sh && chmod +x holderbot.sh && ./holderbot.sh
 ```
 
 وارد فایل qr.py داخل پوشه‌ی Functions بشید ، سپس به سطر 9 فایل بروید :
